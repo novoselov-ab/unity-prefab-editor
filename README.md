@@ -1,6 +1,6 @@
 ## Prefab Editor
 
-Prefab Editor - is a tool to apply changes to prefabs in runtime (playmode). You can change anything in prefab instance (root object or any child) in runtime, then select changes you want to apply and press apply. It is just that simple. 
+Prefab Editor - is Unity3d tool for editing prefabs in runtime(playmode). You can change anything in prefab instance (root object or any child) in runtime, then select changes you want to apply and press apply. It is just that simple. 
 
 For example, it is very convenient while editing a UI. You tweak positions, colors, and other properties of your elements and than you have to memorize changes (or write them down), press stop, find prefab and apply them again. With Prefab Editor you can just apply selectively changes you need. 
 

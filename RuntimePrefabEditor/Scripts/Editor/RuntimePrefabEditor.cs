@@ -22,7 +22,7 @@ namespace RuntimePrefabEditor
         private HashSet<GameObjectDiff.Diff.Id> _selectedDiffs = new HashSet<GameObjectDiff.Diff.Id>();
         private HashSet<GameObjectDiff.Diff.Id> _deselectedDiffs = new HashSet<GameObjectDiff.Diff.Id>();
         
-        [MenuItem ("Tools/RuntimePrefabEditor")]
+        [MenuItem ("Window/Prefab Editor")]
         static void Init ()
         {  
             RuntimePrefabEditor window = (RuntimePrefabEditor)EditorWindow.GetWindow (typeof(RuntimePrefabEditor));
