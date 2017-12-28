@@ -15,11 +15,11 @@ Also available on the Unity Store: https://assetstore.unity.com/packages/tools/u
 ## Usage
 
 * Copy the `RuntimePrefabEditor` folder somewhere under the `Assets` folder. 
-* Open Unity3d
-* Open `Window/Prefab Editor`
+* Open Unity3d.
+* Open `Window/Prefab Editor`.
 * Select a GameObject in your scene to edit. Prefab Editor will show the prefab associated with that GameObject, it could be that there are few.
-* Edit your GameObject
-* Prefab Editor show changes, select changes you want to apply and press `Apply Changes To Prefab` button
+* Edit your GameObject.
+* Prefab Editor show changes, select changes you want to apply and press `Apply Changes To Prefab` button.
 
 ## Usage in pictures
 
